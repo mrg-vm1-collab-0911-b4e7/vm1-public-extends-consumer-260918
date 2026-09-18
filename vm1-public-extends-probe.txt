@@ -1,0 +1,1 @@
+VM1 public consumer of private extends source probe
