@@ -1,0 +1,1 @@
+# vm1-public-extends-consumer-260918
